@@ -10,7 +10,7 @@ logo: "/assets/as_headshot.jpg"
 author:
   name             : "Audrey Shingleton"
   avatar           : "/assets/as_headshot.jpg"
-  bio              : "I am a Master's student in Computer Science"
+  bio              : "I am a Master's student in Computer Science at the University of Montana"
   location         : "UM"
 defaults:
   # _pages
@@ -21,3 +21,5 @@ defaults:
       layout: single
       author_profile: true
 
+include:
+  - _pages
