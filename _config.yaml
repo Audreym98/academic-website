@@ -1,6 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes@4.17.2
+remote_theme: daviddarnes/alembic
 plugins:
 - jekyll-include-cache
+- jekyll-remote-theme
 locale: "en-US"
 title: "My academic webpage"
 name: "Audrey Shingleton"
